@@ -71,4 +71,3 @@ Este proyecto construye un auto RC auto-manejado usando Raspberry Pi, Arduino y 
 
 6. **Autoconducción del coche en acción**: Primero ejecute `rc_driver.py` para iniciar el servidor en el ordenador, y luego ejecute `stream_client.py` y `ultrasonic_client.py` en la raspberry pi. 
 
-[中文文档](https://github.com/zhaoying9105/AutoRCCar) (感谢[zhaoying9105](https://github.com/zhaoying9105))
