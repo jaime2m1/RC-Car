@@ -3,12 +3,7 @@
 
 Ver conducción autonática en acción
 
-
-
-![https://user-images.githubusercontent.com/31405248/114218845-4057a180-996a-11eb-8812-bdd67ab1b3c5.mp4](Cochestop)
-
-
-
+![CocheStop](https://user-images.githubusercontent.com/31405248/114219797-6d588400-996b-11eb-8067-5558f750197d.gif)
 
 Este proyecto construye un auto RC auto-manejado usando Raspberry Pi, Arduino y software de código abierto. Raspberry Pi recopila las entradas de un módulo de cámara y un sensor ultrasónico, y envía datos a una computadora de forma inalámbrica. La computadora procesa las imágenes de entrada y los datos del sensor para la detección de objetos (señal de stop y semáforo) y para evitar colisiones, respectivamente. Un modelo de red neuronal se ejecuta en la computadora y hace predicciones para la dirección en función de las imágenes de entrada. Las predicciones se envían al Arduino para el control del auto RC.
   
