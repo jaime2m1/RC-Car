@@ -5,7 +5,7 @@ Ver conducción autonática en acción
 
 
 
-https://user-images.githubusercontent.com/31405248/114218845-4057a180-996a-11eb-8812-bdd67ab1b3c5.mp4
+![CocheStop](https://user-images.githubusercontent.com/31405248/114218845-4057a180-996a-11eb-8812-bdd67ab1b3c5.mp4)
 
 
 
