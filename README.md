@@ -1,5 +1,5 @@
 ## AutoRCCar
-### Python3 + OpenCV3 + Arduino
+### Raspberry Pi + Python3 + OpenCV3 + Arduino
 
 ![CocheStop](https://user-images.githubusercontent.com/31405248/114219797-6d588400-996b-11eb-8067-5558f750197d.gif)
 
